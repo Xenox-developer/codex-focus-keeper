@@ -2,6 +2,8 @@
 
 macOS helper that restores your working window when another app takes focus during Codex Computer Use. Starts and stops through Codex hooks.
 
+![Focus recovery comparison: with the script on the left, without it on the right](assets/focus-comparison.gif)
+
 ## Requirements
 
 - macOS, Codex with hooks and built-in Computer Use (`mcp__cua_repl__js`).
